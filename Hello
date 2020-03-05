@@ -1,0 +1,7 @@
+#include<iostream.h>
+#include<conio.h>
+Using namespace std;
+{
+Cout<<"hello world";
+return 0;
+}
